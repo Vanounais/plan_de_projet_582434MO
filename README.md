@@ -7,4 +7,5 @@ Le joueur incarne un botanniste passionné qui est a la recherche d'un livre de 
 ### Visuel  
 ### Sonore  
 ## Carte de la map  
+![map](medias/carte_map.png)
 ## Schéma de programmation/d'interactivité  
